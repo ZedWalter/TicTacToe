@@ -1,14 +1,3 @@
-# 1. Name:
-#      Zed Walted
-# 2. Assignment Name:
-#      Lab 01: Tic-Tac-Toe
-# 3. Assignment Description:
-#      Play the game of Tic-Tac-Toe
-# 4. What was the hardest part? Be as specific as possible.
-#      The hardest part for me was figuring out where to start, it was one of the most complex programs I've attempted to code and I just got lost
-#       trying to find a starting point to base the beginning of my code around.
-# 5. How long did it take for you to complete the assignment?
-#      In total this program took me about 3 hours to complete.
 
 import json
 
